@@ -1,5 +1,5 @@
 # 3D-PCQA
-ACTIVATING FREQUENCY AND VIT FOR 3D POINT CLOUD QUALITY ASSESSMENT WITHOUT REFERENCE
+Activating Frequency And Vit For 3d Point Cloud Quality Assessment Without Reference
 
 
-To be available soon.....
+To be available soon.....ICIP 2023
