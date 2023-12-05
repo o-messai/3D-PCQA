@@ -23,15 +23,14 @@ torchaudio==0.13.1  </br>
 
 ## Citation
 
-  @INPROCEEDINGS{10328373,
-    author={Messai, Oussama and Bentamou, Abdelouahid and Zein-Eddine, Abbass and Gavet, Yann},
-    booktitle={2023 IEEE International Conference on Image Processing Challenges and Workshops (ICIPCW)}, 
-    title={Activating Frequency and VIT for 3D Point Cloud Quality Assessment Without Reference}, 
-    year={2023},
-    volume={},
-    number={},
-    pages={3636-3640},
-    doi={10.1109/ICIPC59416.2023.10328373}}
+            @proceeding{messai2023-mesh3d,
+            title={Activating Frequency and VIT for 3D Point Cloud Quality Assessment Without Reference},
+            author={Messai, Oussama and Bentamou, Abdelouahid and Zein-Eddine, Abbass and Gavet, Yann},
+            conference={ICIPCW2023},
+            year={2023},
+            publisher={IEEE},
+            doi={10.1109/ICIPC59416.2023.10328373}}
+
 
 
 
