@@ -1,4 +1,4 @@
-# Activating Frequency and ViT for 3D Point Cloud Quality Assessment Without Reference IEEE ICIP 2023 Conference. </br>
+# Activating Frequency and ViT for 3D Point Cloud Quality Assessment Without Reference. IEEE ICIP 2023 Conference. </br>
 ## 3D-PCQA </br>
 
 This is the implemntation for the paper above.
