@@ -1,0 +1,10 @@
+BASICS:
+  train_dir:   ./data/ppc/ 
+  test_dir:    ./data/ppc/  
+  valid_dir:   ./data/ppc/
+
+point_size: 1024
+patch_size: 100
+
+input_channel: 9
+input_size: 32
