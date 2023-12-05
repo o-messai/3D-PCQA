@@ -3,7 +3,8 @@
 This is the implemntation for the paper above.
 Link to pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10328373
 
-![3D_mesh](https://github.com/o-messai/3D-PCQA/assets/10109223/3247790c-5a52-42dc-b6f5-8906d8b65d12)
+![Screenshot from 2023-12-05 13-02-27](https://github.com/o-messai/3D-PCQA/assets/10109223/152901d9-1c8d-4ec7-a27b-08c79d4947dc)
+
 
 
 ## Run example for test:
