@@ -15,7 +15,7 @@ python test.py /path/to/host/model_weights.pt /path/to/host/dataset/
 - einops  </br>
 - numpy  </br>
 - pyntcloud  </br>
-- PyYAML </br>
+- pyYAML </br>
 - scikit-learn </br>
 - pytorch  </br>
 
