@@ -1,7 +1,17 @@
 BASICS:
-  train_dir:   ./data/ppc/ 
-  test_dir:    ./data/ppc/  
-  valid_dir:   ./data/ppc/
+  train_dir:   ./data/BASICS/ 
+  test_dir:    ./data/BASICS/  
+  valid_dir:   ./data/BASICS/
+
+PointXR:
+  train_dir:   ./data/PointXR/ 
+  test_dir:    ./data/PointXR/  
+  valid_dir:   ./data/PointXR/
+
+ICIP20:
+  train_dir:   ./data/ICIP20/ 
+  test_dir:    ./data/ICIP20/  
+  valid_dir:   ./data/ICIP20/
 
 point_size: 1024
 patch_size: 100
